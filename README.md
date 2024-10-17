@@ -12,3 +12,8 @@ NLP
 CV
 - https://www.deeplearningbook.org/?fbclid=IwAR0Ijy-Q6pieqyV4a7lUnoLMPLmM-MAdJuPdlZ6L1WiXzpuVS9G_KQ2NpPk
 - https://www.fast.ai
+
+Используются библиотеки:
+- Scikit-learn
+- pandas
+- matplotlib
